@@ -8,8 +8,7 @@ public class Array1 {
             a[i] = sc.nextInt();
         }
         for (int i = 0; i < a.length; i++) {
-            System.out.println("Element at : "+i+" "+a[i]);
+            System.out.println("Element at  "+i+" "+a[i]);
         }
-
     }
 }
