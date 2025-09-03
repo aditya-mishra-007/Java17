@@ -1,3 +1,5 @@
+package Unit1;
+
 // Step - 1
 public class InsufficientBalanceException extends RuntimeException {
     public InsufficientBalanceException(String message) {
